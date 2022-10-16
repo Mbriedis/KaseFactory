@@ -47,7 +47,7 @@ ul {padding-left: 10%}
             /* Height of the footer*/
             height:1000px;       
             clip-path: polygon(25% 0%, 100% 0, 100% 33%, 19% 23%, 0 33%, 0 0);
-            background-image:linear-gradient(to bottom right, rgba(247, 244, 244, 0.418), rgb(255, 255, 255) ), url(/img/back.jpg);
+            background-image:linear-gradient(to bottom right, rgba(247, 244, 244, 0.418), rgb(255, 255, 255) ), url(./img/back.jpg);
             background-size:contain;
             background-position: relative;          
 }
